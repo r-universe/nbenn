@@ -1,5 +1,9 @@
 [
   {
+    "package": "mockthat",
+    "oncran": true
+  },
+  {
     "package": "prt",
     "oncran": true
   }
