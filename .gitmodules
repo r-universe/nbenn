@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "mockthat"]
 	path = mockthat
 	url = https://github.com/nbenn/mockthat
-	shallow = true
-	registered = true
 [submodule "prt"]
 	path = prt
 	url = https://github.com/nbenn/prt
-	shallow = true
-	registered = true
