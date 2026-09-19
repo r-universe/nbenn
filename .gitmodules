@@ -8,3 +8,6 @@
 [submodule "prt"]
 	path = prt
 	url = https://github.com/nbenn/prt
+[submodule "typedjson"]
+	path = typedjson
+	url = https://github.com/nbenn/typedjson
