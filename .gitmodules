@@ -8,6 +8,9 @@
 [submodule "prt"]
 	path = prt
 	url = https://github.com/nbenn/prt
+[submodule "reactives"]
+	path = reactives
+	url = https://github.com/nbenn/reactives
 [submodule "typedjson"]
 	path = typedjson
 	url = https://github.com/nbenn/typedjson
